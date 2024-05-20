@@ -1,4 +1,4 @@
-# Integration of Health Systems Database
+# Integration of Databases of the Healthcare System
 
 Python code for research project funded by the National Council for Scientific and Technological Development (CNPq) from August 2020 to August 2021.
 
